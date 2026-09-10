@@ -41,15 +41,7 @@ PetCat/
 │   └── estiloso.css
 └── img/
     ├── Gravação-de-Tela-2026-09-10-142633.gif
-    ├── 1.jpg
-    ├── 2.jpg
-    ├── 3.jpg
-    ├── 4.jpg
-    ├── 5.jpg
-    ├── 6.jpg
-    ├── 7.jpg
-    ├── img8.jpg
-    └── img9.jpg
+    ├── jpg
 ```
 
 ## How to Run
