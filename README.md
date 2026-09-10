@@ -78,17 +78,23 @@ The contact form is currently structured visually on the front end. To send and 
 
 This project was developed to practice structuring web pages with HTML and creating interfaces using CSS styling features.
 
-## 👨‍💻 Autor
-
-Desenvolvido por **Carlos Daniel de Souza Oliveira**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/incarlosdaniel)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/inCarlosDaniel)
-
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200" alt="Happy Coding"/>
-</div>
+  <h2>👨‍💻 Author</h2>
 
-⭐ If this repository helped you, please give it a star.
+  <p>Developed by <strong>Carlos Daniel de Souza Oliveira</strong></p>
+
+  <p>
+    <a href="https://linkedin.com/in/incarlosdaniel">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://github.com/inCarlosDaniel">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
+  </p>
+
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200" alt="Happy Coding">
+
+  <p>⭐ If this repository helped you, please give it a star.</p>
+</div>
